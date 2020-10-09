@@ -1,9 +1,22 @@
 {
     "name": "lt7",
     "displayName": "LT7",
-    "description": "Ya molodec",
+    "description": "LT7 theme for Visual Studio Code",
     "publisher": "LT7Y",
-    "version": "0.0.1",
+    "keywords": [
+        "VSCode",
+        "Theme",
+        "Dark",
+        "LT7",
+        "VS",
+        "Visual Studio Code"
+    ],
+    "icon": "LT7.png",
+    "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LT7Y/LT7.git"
+    },
     "engines": {
         "vscode": "^1.50.0"
     },
