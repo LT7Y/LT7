@@ -1,0 +1,22 @@
+{
+    "name": "lt7",
+    "displayName": "LT7",
+    "description": "Ya molodec",
+    "publisher": "LT7Y",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LT7",
+                "uiTheme": "vs-dark",
+                "path": "./themes/LT7-color-theme.json"
+            }
+        ]
+    }
+}
