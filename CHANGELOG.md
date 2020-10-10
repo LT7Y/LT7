@@ -1,6 +1,8 @@
-# Change Log
+# Change Log:
 
-0.0.1 - Created "raw" theme.
+::(09.10.2020)::
+
+0.0.1  - Created "raw" theme.
 
 0.0.2 - Fixed bugs:
 
@@ -9,6 +11,8 @@
 0.0.3 - Fixed Bugs:
 
 - When loading, a "red screen" appeared for a while.
+
+::(10.10.2020)::
 
 0.0.4 - Header menu changed
 
@@ -21,4 +25,8 @@
 0.0.6 - Fixed general bugs:
 
 - VSCode was crashed when opening the dropdown settings menu.
-- Sometimes the theme was unloaded
+- Sometimes the theme was unloaded.
+
+0.0.7 - Сhanged color palette:
+
+- The colors are more pleasing to eye.
