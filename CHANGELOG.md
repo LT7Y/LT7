@@ -1,6 +1,6 @@
 # Change Log:
 
-::(09.10.2020)::
+(09.10.2020)
 
 0.0.1  - Created "raw" theme.
 
@@ -12,9 +12,9 @@
 
 - When loading, a "red screen" appeared for a while.
 
-::(10.10.2020)::
+(10.10.2020)
 
-0.0.4 - Header menu changed
+0.0.4 - Header menu changed:
 
 - Changed the background color of the dropdown menu.
 
@@ -30,3 +30,7 @@
 0.0.7 - Сhanged color palette:
 
 - The colors are more pleasing to eye.
+
+0.0.8 - Changed text color:
+
+- Text in title bar was upgraded.

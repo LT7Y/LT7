@@ -130,6 +130,7 @@
 		"sideBarSectionHeader.border": "#473e68",
 		"settings.focusedRowBackground": "#313147",
 		"sideBarSectionHeader.background": "#2f2d41",
+		"titleBar.activeForeground": "#e7e3ff",
 	},
 	"tokenColors": [
 		{

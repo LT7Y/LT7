@@ -6,10 +6,6 @@ Due this theme your Eyes will experience truly incredible relaxation.
 
 ## Screenshots
 
-![Example №1](https://i.yapx.ru/JJY6I.png)
-
-![Example №2](https://i.yapx.ru/JJZAP.png)
-
-![Example №3](https://i.yapx.ru/JJZBP.png)
+![Screenshots](https://i.yapx.ru/JJ6OK.png)
 
 In the future, this theme will be improved and improved. Enjoy using it!
