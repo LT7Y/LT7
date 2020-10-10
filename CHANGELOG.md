@@ -1,9 +1,24 @@
 # Change Log
 
-All notable changes to the "lt7" extension will be documented in this file.
+0.0.1 - Created "raw" theme.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+0.0.2 - Fixed bugs:
 
-## [Unreleased]
+- Don't appeared background.
 
-- Initial release
+0.0.3 - Fixed Bugs:
+
+- When loading, a "red screen" appeared for a while.
+
+0.0.4 - Header menu changed
+
+- Changed the background color of the dropdown menu.
+
+0.0.5 - Fixed bugs:
+
+- Some buttons did not have a theme applied.
+
+0.0.6 - Fixed general bugs:
+
+- VSCode was crashed when opening the dropdown settings menu.
+- Sometimes the theme was unloaded
