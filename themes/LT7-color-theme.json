@@ -4,6 +4,7 @@
 	"colors": {
         "foreground": "#bfb0ff",
 		"badge.background": "#7d71c5",
+		"badge.background": "#7d71c5",
 		"editor.background": "#29283a",
 		"editor.findMatchBackground": "#433766",
 		"editor.findMatchBorder": "#695086",
