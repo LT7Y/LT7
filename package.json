@@ -1,7 +1,7 @@
 {
     "name": "lt7",
     "displayName": "LT7",
-    "description": "Gentle lilac for your VSCode",
+    "description": "'Gentle lilac' for your VSCode!",
     "publisher": "LT7Y",
     "keywords": [
         "VSCode",
@@ -12,7 +12,7 @@
         "Visual Studio Code"
     ],
     "icon": "LT7.png",
-    "version": "0.0.9",
+    "version": "0.1.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/LT7Y/LT7.git"

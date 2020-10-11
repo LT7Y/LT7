@@ -8,4 +8,4 @@ Due this theme your Eyes will experience truly incredible relaxation.
 
 ![Screenshots](https://i.yapx.ru/JJ6OK.png)
 
-In the future, this theme will be improved and improved. Enjoy using it!
+I hope that this theme will satisfy you! Enjoy using it! :)
